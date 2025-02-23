@@ -1,6 +1,6 @@
 ## 🎯 Overview
 
-Solution to the roadmap.sh project Weather API https://roadmap.sh/projects/blogging-platform-api
+Solution to the roadmap.sh project https://roadmap.sh/projects/blogging-platform-api
 
 ## 🛠️ Technical Details
 - Backend: Java 17, Spring Framework 3.4.2
