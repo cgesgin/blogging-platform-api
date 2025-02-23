@@ -4,6 +4,7 @@ Solution to the roadmap.sh project Weather API https://roadmap.sh/projects/blogg
 
 🛠️ Technical Details
 - Backend: Java 17, Spring Framework 3.4.2
+- Database : H2 database
 - Documentation : swagger for api documentation
 
 🏃 How to Run
