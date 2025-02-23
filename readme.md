@@ -1,13 +1,13 @@
-🎯 Overview
+## 🎯 Overview
 
 Solution to the roadmap.sh project Weather API https://roadmap.sh/projects/blogging-platform-api
 
-🛠️ Technical Details
+## 🛠️ Technical Details
 - Backend: Java 17, Spring Framework 3.4.2
 - Database : H2 database
 - Documentation : swagger for api documentation
 
-🏃 How to Run
+## 🏃 How to Run
 To get started with the project, follow these steps:
 
 - Clone the repository:
